@@ -35,8 +35,6 @@ The goal of this project is to estimate how many operational cycles an engine ha
 ```
 ├── Prognos_Time_Series.ipynb   # Data preprocessing & model training
 ├── prognos_dashboard.py        # Streamlit dashboard (deployment)
-├── *_gru_model.weights.h5      # Trained model weights
-├── *_sequences.npz             # Input sequences
 ├── *_evaluation.npz            # True & predicted RUL
 ```
 
